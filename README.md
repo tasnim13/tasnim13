@@ -1,7 +1,5 @@
 
-markdown
-Copy
-Edit
+
 # 👋 Hi, I'm Tasnim!
 
 🎓 Sophomore at Tufts University, studying Computer Science & Biotechnology  
@@ -46,7 +44,7 @@ checkout my exploratory model building to predict diagnostic groups of patients 
 
 Check out this model for predicting hapiness! I clustered countries based on their similar profiles using an unsuperivised model and then used that clustering information as an additional feature to predict life ladder or happiness scores of a country: [Predicting Happiness](https://github.com/tasnim13/Happiness_Predictor)
 
-Check out this program for nutrition scores for popular commercial food products: [Nutriscore]()
+Check out this program for nutrition scores for popular commercial food products: [Nutriscore](https://github.com/tasnim13/nutriscore)
 
 ---
 
