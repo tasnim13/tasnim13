@@ -44,7 +44,7 @@ Used smartphone sensor data and machine learning to study the relationship betwe
 
 checkout my exploratory model building to predict diagnostic groups of patients based on ecological momentary assessment (EMA) data: [Group Prediction Model](https://github.com/tasnim13/diagnostic_group_prediction_model)
 
-Check out this model for predicting hapiness! I clustered countries based on their similar profiles using an unsuperivised model and then used that clustering information as an additional feature to predict life ladder or happiness scores of a country: [Predicting Happiness]()
+Check out this model for predicting hapiness! I clustered countries based on their similar profiles using an unsuperivised model and then used that clustering information as an additional feature to predict life ladder or happiness scores of a country: [Predicting Happiness](https://github.com/tasnim13/Happiness_Predictor)
 
 Check out this program for nutrition scores for popular commercial food products: [Nutriscore]()
 
