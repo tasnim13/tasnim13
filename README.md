@@ -6,9 +6,11 @@
 💡 Passionate about using technology to enhance medicine and education  
 🔬 Researcher | 🌱 Engineers Without Borders | 🤖 Break Through Tech AI Fellow  
 
-I'm driven by curiosity and a commitment to making science and medicine more effective, accessible, and human-centered. Whether it's analyzing biological data at the Kaplan Lab or building neural networks to explore mental health trends at Mount Sinai, I’m always exploring how data and computation can improve lives.
+I'm driven by curiosity and a commitment to making science and medicine more effective, accessible, and human-centered. Whether that's analyzing gene expression and breast cancer metastasis data at the Peyton Lab or building neural networks to explore mental health trends at Mount Sinai, I’m always exploring how data and computation can improve lives.
 
-Outside the lab, I’ve guided NYC high school grads toward college success, helped build an automated hydroponic system for a student-run greenhouse, and am currently diving deeper into machine learning as a Break Through Tech AI Fellow @ MIT.  
+Outside the lab, I’ve guided NYC high school grads toward college success, helped build an automated hydroponic system for a student-run greenhouse, and am currently diving deeper into machine learning as a Break Through Tech AI Fellow @ MIT. As part of the program, I am working with project advisors from Novartis to build a Convolutional Neural Netwrok capable of identifying cells undergoing mitosis in stained tissue images. 
+
+As of fall 2025, I have stepped into a role as a Software technlead for the local chapter of Engineers withput boarder and am leading  group of 10+ engineering students in planning, protyping and implemnting a remote monitoring system to monitor strucutral health of the community fridge our chapter is building for the Elizabeth Peabody House based in Cambridge.
 
 I’m looking to contribute to healthcare-focused AI projects and grow through mentorship and collaboration.
 ---
@@ -22,7 +24,7 @@ I’m looking to contribute to healthcare-focused AI projects and grow through m
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, C, C++, Java, JavaScript, SQL, MATLAB, LaTeX  
+**Languages:** Python, C, C++, Java, R, JavaScript, SQL, MATLAB, LaTeX  
 **Data Science & Research:** pandas, NumPy, scikit-learn, PCA, clustering, neural networks  
 **Tools:** Jupyter Notebook, Git/GitHub, AutoDock, PyMOL, Adobe Creative Suite  
 **Web & Design:** React, HTML/CSS, Google Workspace, Microsoft Office  
