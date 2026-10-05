@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tasnim!
 
-🎓 Junior at Tufts University, studying Computer Science & Biotechnology  
+🎓 Senior at Tufts University, studying Computer Science & Biotechnology  
 💡 Passionate about using technology to enhance medicine and education  
 🔬 Researcher | 🌱 Engineers Without Borders | 🤖 Break Through Tech AI Fellow  
 
